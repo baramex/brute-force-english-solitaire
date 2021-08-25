@@ -77,9 +77,9 @@ function Update() {
                 }
 
                 console.clear();
-                console.log("Une solution trouvée:\n" + text);
+                console.log("A solution found:\n" + text);
 
-                console.log("Fin de la Brute Force:\nTemps de la partie: " + beforeTime + "ms\nNombre total de parties: " + nbGame + "\nTemps total: " + totalTime + "ms\nNombre de mouvement de la partie: " + nbM);
+                console.log("End of the Brute Force:\nParty time: " + beforeTime + "ms\nTotal number of games: " + nbGame + "\nTotal time: " + totalTime + "ms\nNumber of game moves: " + nbM);
                 isEnd = true;
             }
             else {
@@ -97,7 +97,7 @@ function Update() {
                     totalTime = new Date().getTime() - totalTime;
                 }
                 console.clear();
-                console.log("Brute Force en cours:\nTemps de la partie: " + beforeTime + "ms\nNombre total de parties: " + nbGame + "\nTemps total: " + totalTime + "ms\nNombre de mouvement de la partie: " + nbM);
+                console.log("Brute Force in progress:\nParty time: " + beforeTime + "ms\nTotal number of games: " + nbGame + "\nTotal time: " + totalTime + "ms\nNumber of game moves: " + nbM);
             }
 
             timeout = 0;
