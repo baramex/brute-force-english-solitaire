@@ -14,6 +14,6 @@
 ## Installation
 - Unzip file (if necessary)
 - Open terminal in the folder
-```cmd
+```console
 node 'brute force solitaire script.js'
 ```
