@@ -8,12 +8,5 @@
 [![](https://img.shields.io/github/license/baramex/brute-force-english-solitaire.svg?style=for-the-badge)](https://choosealicense.com/licenses/lgpl-3.0/)
 [![](https://img.shields.io/badge/author-baramex-red?style=for-the-badge)](https://github.com/baramex/)
 
-## Requirements
-- [Node js](https://nodejs.org/en/download/)
-
-## Installation
-- Unzip file (if necessary)
-- Open terminal in the folder
-```console
-node 'brute force solitaire script.js'
-```
+## Download
+[![](https://img.shields.io/github/v/release/baramex/brute-force-english-solitaire.svg?style=for-the-badge&label=last%20release)](https://github.com/baramex/brute-force-english-solitaire/releases/latest/)
