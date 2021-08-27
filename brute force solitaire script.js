@@ -1,3 +1,11 @@
+/*
+#####     brute force solitaire      #####
+#          Developed by Baramex          #
+### github: https://github.com/baramex ###
+
+Licence: lgpl-3.0
+*/
+
 var game = [2, 2, 1, 1, 1, 2, 2, //0
             2, 2, 1, 1, 1, 2, 2, //7
             1, 1, 1, 1, 1, 1, 1, //14
