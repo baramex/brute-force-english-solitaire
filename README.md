@@ -1,4 +1,5 @@
 ## Infos
+[![](https://tokei.rs/b1/github/baramex/brute-force-english-solitaire)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/brute-force-english-solitaire?style=for-the-badge)]()
 
 [![](https://img.shields.io/github/downloads/baramex/brute-force-english-solitaire/total.svg?style=for-the-badge)](https://github.com/baramex/brute-force-english-solitaire/releases/)
